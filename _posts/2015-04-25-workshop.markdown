@@ -3,7 +3,7 @@ title:  "The beautiful spring"
 subtitle: "It is incredible"
 author: "jlopez"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+image: "img/20170403_191135.jpg"
 date:   2015-04-25 12:12:12
 ---
 It is 04-04-2017, I have been trying to set up a blog. I finally found a nice blog's layout, of course by using a jekyll theme that 
