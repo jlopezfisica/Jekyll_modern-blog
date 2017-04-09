@@ -103,6 +103,34 @@ there were some arguing during the work but it wa svery nice. I liked to work wi
 I passed my courses in the first exam rounds and I decided to do my thesis with professor federico Toschi,
 so I am there developing Lattice Boltzmann method in a very complex code.
 
+-------------------------------------------------
+
+### Why not here?
+#### What I am looking for:
+I am looking for a nice team to work with:
+* smart people
+* leadership supervisor 
+* Ambitious people
+* Down to earth people
+
+#### What else:
+I am starting my professional career outside academia. I like challenging Physical and mathematical problems.
+I want to analize data, to develop algorithms and to build software. I am really interested in 
+disruptive technologies, which I would like to get deep knowledge in some of them. I also like to know more
+about hardware and networks.
+
+#### Why Duyfken?
+In the high tech industry, they are starting to offer me positions as a troubleshooting, manufacturing,
+test engineer. However, I like more theoretical stuff. I think i like more mathematical stuff or research based.
+
+I can spot trends on data, I am very good at finding erros in software and mathematics.
+I had the ability to follow my professor and spot single typos on the equations, signs, or erros in 
+the problems. 
+
+I am also interested in high performance computing and I also want to get good money.
+
+
+
 
 
 
