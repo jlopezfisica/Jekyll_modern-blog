@@ -7,8 +7,38 @@ image: "img/b.jpg"
 date:   2017-04-09 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Carbon nanotubes?
+
+#### Situation:
+It started in January 2014. I really liked the project because it was interdisciplinary and applied to 
+a real problem. My advisor, the Dr. Edgar Alvarez is a young professor, who is starting to build a material science 
+laboratory in the faculty of science. The job was mainly experimental and design, the samples were made in the 
+laboratory of my professor and the spectroscopic analysis was made in the applied science and 
+technological development center. 
+
+#### Task:
+My task was to design the set up of the experiment, including parameters and materials, and finally to make the 
+samples. It took around 5 months to get the first samples and to make the first IR, Raman and TGA analysis.
+
+#### Action:
+I had access to the Neuroscience institute to perform in vitro cell culture analysis of my samples . After six
+months I got a fellowship to perform a 3 months research project for the nanotoxicity of 
+carbon nanotubes in Brazil, where I learned another bunch of experimental techniques, biophysics; and it was my 
+first International experience. 
+
+#### Result:
+After Brazil I came back to mex to finish my thesis. I finished in December 2014. At that time I started to look
+for Graduate programs and I defended my thesis, getting cum laude for my thesis project and my
+academic records in the BSc.
+
+* It was my first big research project
+* It showed me how difficult is to make science
+* I learned time management and many life experiences.
+* I learned too much science by interacting with  my colleages, and professor
+
+-----------------------------------------------------------------------------------------
+
+
 
 ### Aliquam suscipit.
 Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
