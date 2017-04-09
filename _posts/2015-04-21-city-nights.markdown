@@ -42,6 +42,22 @@ academic records in the BSc.
 
 -----------------------------------------------------------------------------------------
 
+### My business:
+
+
+### Questions for the:
+
+* Why did you choose this company?
+* Who will be my direct supervisor?
+* Are you constantly hiring new people?
+* What process will be used to evaluate my performance?
+* Are you developing software?
+* Do you work long hours sometimes?
+
+
+
+
+
 
 
 ### Aliquam suscipit.
