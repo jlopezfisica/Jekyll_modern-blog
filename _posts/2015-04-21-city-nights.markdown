@@ -44,6 +44,31 @@ academic records in the BSc.
 
 ### My business:
 
+#### Situation:
+I had to get many part times jobs since I am 14 years old.I worked two years in Wal Mart, and
+another year in a different supermarket. After high school, I got a job in Ford company in the sales department,
+and after a year I got a job in a HSBC bank in customer service, and sales of insurances. I found my 
+ability for sales, but my objective was to study Physics. When I started university I realised that to
+succeed in physics there was no possibility of part time jobs.
+
+#### Task:
+I developed a product, and turn it into a business.
+
+#### Action:
+I found a problem that the city was facing, I made research to find the solution, and I 
+developed a successful product. I did marketing, sales, product design, chemistry, etc.
+
+#### result:
+I paid my studies and finished within the top 5 percent in the most important university in my country.
+I bought my own car after three years, I learned how to manage my time and my two employes.
+
+------------------------------------------------------------------------
+
+
+
+
+
+I
 
 ### Questions for the:
 
