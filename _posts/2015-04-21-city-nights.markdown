@@ -20,8 +20,9 @@ laboratory of my professor and the spectroscopic analysis was made in the applie
 technological development center. 
 
 #### Task:
-My task was to design the set up of the experiment, including parameters and materials, and finally to make the 
-samples. It took around 5 months to get the first samples and to make the first IR, Raman and TGA analysis.
+My task was to design the set up of the experiment, including parameters and materials,  to make the 
+samples and finally the Physiochemical characterization. It took around 5 months to get the first samples and to
+make the first IR, Raman and TGA analysis.
 
 #### Action:
 I had access to the Neuroscience institute to perform in vitro cell culture analysis of my samples . After six
