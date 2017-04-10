@@ -1,14 +1,86 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
+title:  "Grace documents!"
+subtitle: "The Interview!"
+author: "JLL"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+date:   2017-04-10 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Lattice Boltzmann Method?
+#### Whats is LBM?
+It is a class of CFD method. Unlike the conventional CFD methods, which solve the conservation equations of
+macroscopic properties such as mass, momentum, and energy, LBM originates from Boltzmann's kinetic molecular
+dynamics by solving a discrete version of Boltzmann equation. LBM models fluids with particles that 
+perform propagation and collision processes over a discrete lattice mesh. 
+
+Due to its particulate nature, LBM has some advantages, specially in delaing with microscopic interactions
+such as those encountered in multiphase flows. In addition, the locality of computations in the domain 
+allows an easy parallelization. 
+
+#### What is the problem I am working in?
+I am developing multiphase simulations for the jetting of liquids. The difficulty of obtaining 
+experimental or computational data about the jetting process is because the physical process involved 
+happens at very small lenght and time scales.
+The typical size of a nozzle in inkjet printing is 15 micrometers and the droplet formation is in 
+microseconds. Basically, I am analizing the space of dimensionless Reynolds and Weber numbers in LBM
+multiphase.
+LBM has some disadvantages. For instance, getting high density ratios or untunable surface tension,
+I am currently analizing the common multiphase models to see if we can reach the real parameters of an 
+inkjet printing. 
+
+#### Tools?
+My professor Federico toschi and its students have been developing a LBM code during many years.
+The source code is in C language and we use many software tools for compiling, running and visualizing 
+the simulations, such as make files, bash scripting and different data file formats such as VTK or HDF5.
+
+#### My work:
+1. My professor and his friends from OCE technologies give me the problem. 
+2. I selected the LBM multiphase method suitable for my simulations. It was done by reading many scientific papers. 
+3. I implemented the  multiphase method in the source code and created different tests to check the model. For instance, I implemented a test to measure the surface tension by generating a droplet with some particular BC.
+4. Normally, there are some implementations of BC and geometries that we can re use from the source code, however most of the time we have to write our own geometries nad BC.
+5. The most difficult part is to match the Physics, analytical or experimental results to the simulations
+6. For the processing, I normally use ParView through the Python scripting interface, or for simple tasks theGUI. The source code is maintained with a GitLab protocol.
+
+as a summary I do algorithm deveopment, data analysis, analytical fluid dynamics analysis, data processing and
+data visualization.
+
+Also dealing with multiprocessors and hardware limits. 
+
+--------------------------------------------------------
+
+#### What I want?
+First of all, I want to work in a nice team, that is very important for me.
+I like a place where I have my independent tasks but a place where we collaborate 
+each other. I want to have smart and ambitious colleagues to learn from and disscuss interesting topics. 
+
+I like to solve challenging mathematical and physical problems. Not because we want to write a scientific paper,
+but because we can profit and beat another companies with our innovative result. I would like to see my job
+reflected as an output. 
+
+I like gathering and analizing data, no a particular set of data. It includes fuzzy sets of data,
+structured data or whatever we can use to find a useful answer. 
+
+I am also very good at looking for information on the internet, books, etc. i am particularly good at finding 
+erros 
+
+In summary, I would like to have a job with my daily activities related with:
+* data
+* intuition
+* hardware
+* software
+* algorithms 
+
+Finally, I would love to have contact with clients if that is sometimes possible. 
+
+
+
+
+
+
+
+#### 
+
 
 ### Aliquam suscipit.
 Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
